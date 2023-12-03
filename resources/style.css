@@ -1,8 +1,8 @@
 * {
     padding: 0px;
     margin: 0px;
-}
-.header {
+  }
+  .header {
     background-color:#acece8;
     display: flex;
     justify-content: space-between;
@@ -41,10 +41,17 @@
     line-height: 20px; /* 191.667% */
     letter-spacing: 1.2px;
   }
-
-.pic1{
+  
+  .pic1{
     padding-left: 85px;
     width: 246.697px;
     height: 40px;
     flex-shrink: 0;
-}
+  }
+  #main_content{
+    width: 1440px;
+    height: 924px;
+    flex-shrink: 0px;
+    background-color: #18736d;
+    padding: 80px;
+  }
