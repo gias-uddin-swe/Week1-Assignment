@@ -1,0 +1,697 @@
+.law-pc-child {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 1440px;
+  height: 924px;
+}
+.group-child {
+  position: absolute;
+  top: 182px;
+  left: 26px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 683px;
+  height: 683px;
+}
+.portrait-happy-businessman-pre-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 708px;
+  height: 974px;
+  object-fit: cover;
+}
+.ellipse-parent,
+.hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 709px;
+  height: 974px;
+}
+.hero-image {
+  top: 100px;
+  left: 702px;
+}
+.find-your {
+  margin: 0;
+}
+.find-your-lawyer-container {
+  position: absolute;
+  top: 173px;
+  left: 161px;
+  font-size: 90px;
+  letter-spacing: 0.02em;
+  line-height: 100%;
+  display: inline-block;
+  color: var(--neutral-white);
+  width: 891px;
+}
+.trusted-by-10,
+.we-are-here {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.we-are-here {
+  top: 385px;
+  left: 168px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.5px;
+  line-height: 158%;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gainsboro-200);
+  width: 590px;
+}
+.trusted-by-10 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  line-height: 140.5%;
+  width: 540px;
+}
+.trusted-by-10-companies-in-ba-wrapper {
+  position: absolute;
+  top: 638px;
+  left: 166px;
+  width: 540px;
+  height: 31px;
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-poppins);
+}
+.button-get-started-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: #092d43;
+  width: 190px;
+  height: 80px;
+  padding: 10px;
+}
+.get-started {
+  position: absolute;
+  top: 29px;
+  left: 36px;
+  letter-spacing: 0.08em;
+  line-height: 140.5%;
+  display: flex;
+  align-items: center;
+  width: 118px;
+}
+.button-get-started {
+  position: absolute;
+  top: 522px;
+  left: 165px;
+  width: 190px;
+  height: 80px;
+  font-size: var(--body-body-1-size);
+  color: var(--neutral-grey-1);
+  font-family: var(--font-poppins);
+}
+.law-pc-item {
+  position: absolute;
+  top: 760px;
+  left: 0;
+  background-color: #cbf1ef;
+  width: 1440px;
+  height: 786px;
+}
+.what-we-provide-container {
+  position: absolute;
+  top: 934px;
+  left: 167px;
+  font-size: 65px;
+  letter-spacing: 0.32px;
+  line-height: 92.2%;
+  display: inline-block;
+  color: var(--color-teal);
+  width: 419px;
+  height: 153px;
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 1092px;
+  left: 175px;
+  font-size: var(--heading-h6-size);
+  letter-spacing: 0.5px;
+  line-height: 36px;
+  font-family: var(--font-poppins);
+  color: #643939;
+  display: inline-block;
+  width: 384px;
+  height: 144px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--neutral-white);
+  width: 382px;
+  height: 114px;
+}
+.john-doe {
+  position: absolute;
+  top: 20px;
+  left: 139px;
+  line-height: 36px;
+}
+.span {
+  font-weight: 500;
+}
+.lawyer2 {
+  font-family: var(--font-product-sans);
+}
+.lawyer1 {
+  position: absolute;
+  top: 58px;
+  left: 162px;
+  font-size: var(--body-body-1-size);
+  line-height: 36px;
+  color: #87898c;
+  font-family: var(--font-plus-jakarta-sans);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 704px;
+  left: 858.1px;
+  box-shadow: 0 39px 100px rgba(25, 62, 108, 0.12);
+  width: 382px;
+  height: 114px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: #33475b;
+  font-family: var(--font-product-sans);
+}
+.group-inner,
+.law-pc-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 100px;
+}
+.group-inner {
+  background-color: #acece8;
+
+}
+.law-pc-inner {
+  box-shadow: 0 5px 7.3px rgba(0, 0, 0, 0.17);
+}
+.contact {
+  position: relative;
+  letter-spacing: 1.5px;
+  line-height: 23px;
+}
+.contact-parent {
+  position: absolute;
+  top: 26px;
+  left: 905px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs);
+  gap: 56px;
+  font-size: var(--font-size-xs);
+  color: var(--neutral-grey-7);
+  font-family: var(--font-poppins);
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 65px;
+  height: 99px;
+}
+.searchoutline-icon {
+  position: absolute;
+  top: 37px;
+  left: 21px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.bg,
+.rectangle-group {
+  position: absolute;
+  top: 1px;
+  left: 1210px;
+  width: 65px;
+  height: 99px;
+}
+.bg {
+  top: 1546px;
+  left: 3px;
+  background-color: #f2f7ff;
+  width: 1440px;
+  height: 610px;
+}
+.quote-mark-icon {
+  position: absolute;
+  top: 1674px;
+  left: 1171px;
+  width: 176px;
+  height: 149px;
+  overflow: hidden;
+  opacity: 0.2;
+}
+.card-icon {
+  position: relative;
+  width: 580px;
+  height: 272px;
+}
+.incredible-experience,
+.we-had-an {
+  position: absolute;
+  width: 88.15%;
+  top: 10.53%;
+  left: 5.93%;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  display: inline-block;
+}
+.we-had-an {
+  top: 22.37%;
+  font-size: var(--body-body-2-size);
+  line-height: 24px;
+  font-family: var(--font-poppins);
+  color: var(--neutral-grey-6);
+}
+.photo-icon {
+  position: relative;
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.ceo-pqrst,
+.joey-tribbiani {
+  position: relative;
+  line-height: 28px;
+}
+.ceo-pqrst {
+  font-size: var(--body-body-2-size);
+  line-height: 24px;
+  color: var(--neutral-grey-6);
+}
+.client-details-2-white-tex,
+.person-details {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.client-details-2-white-tex {
+  position: absolute;
+  top: 248px;
+  left: 160px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--subtitle-subtitle-1-size);
+  color: var(--neutral-grey-8);
+  font-family: var(--body-body-1);
+}
+.text-testimonial-2,
+.title {
+  position: absolute;
+  text-align: center;
+}
+.text-testimonial-2 {
+  top: 1671px;
+  left: 133px;
+  width: 540px;
+  height: 304px;
+  font-family: var(--font-sumana);
+}
+.title {
+  width: 33.06%;
+  top: 60.69%;
+  left: 53.47%;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  display: inline-block;
+}
+.ceo-abcd,
+.content {
+  font-size: var(--body-body-2-size);
+  line-height: 24px;
+}
+.content {
+  position: absolute;
+  width: 33.06%;
+  top: 61.97%;
+  left: 53.47%;
+  letter-spacing: 0.5px;
+  font-family: var(--font-poppins);
+  color: var(--neutral-grey-6);
+  text-align: center;
+  display: inline-block;
+}
+.ceo-abcd {
+  position: relative;
+  color: var(--neutral-grey-7);
+}
+.client-details-2-white-tex1 {
+  position: absolute;
+  top: 1919px;
+  left: 898px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--subtitle-subtitle-1-size);
+  color: var(--neutral-grey-8);
+  font-family: var(--body-body-1);
+}
+.section-heading {
+  position: absolute;
+  top: 1706px;
+  left: 168px;
+  height: 33px;
+  overflow: hidden;
+}
+.section-title {
+  position: absolute;
+  top: 1577px;
+  left: 488px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.5px;
+  line-height: 64px;
+  display: inline-block;
+  color: var(--neutral-grey-7);
+  text-align: center;
+  width: 470px;
+}
+.bg1 {
+  position: absolute;
+  top: 2490px;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 1440px;
+  height: 316px;
+}
+.social-icons {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.social-links {
+  position: absolute;
+  top: calc(50% - 38.05px);
+  right: 126px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.all-rights-reserved {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 14.95px);
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  height: 23.1px;
+}
+.sub-footer {
+  position: absolute;
+  top: calc(50% + 1273px);
+  right: 1057px;
+  width: 230px;
+  height: 76.1px;
+  font-size: var(--body-body-2-size);
+  color: var(--text-gray-300);
+  font-family: var(--body-body-1);
+}
+.careers,
+.company {
+  position: relative;
+  display: inline-block;
+  width: 160px;
+}
+.company {
+  line-height: 30px;
+  font-weight: 500;
+}
+.careers {
+  line-height: 26px;
+}
+.col-2,
+.list-items {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list-items {
+  gap: var(--gap-xs);
+  font-size: var(--body-body-1-size);
+  color: var(--text-gray-200);
+}
+.col-2 {
+  gap: var(--gap-13xl);
+}
+.links,
+.logotype-light {
+  position: absolute;
+  overflow: hidden;
+}
+.links {
+  top: 2532px;
+  right: 278px;
+  height: 250px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+  font-size: var(--heading-h6-size);
+  color: var(--text-gray-100);
+  font-family: var(--body-body-1);
+}
+.logotype-light {
+  height: 0.86%;
+  width: 8.33%;
+  top: 72.6%;
+  right: 80.21%;
+  bottom: 26.54%;
+  left: 11.46%;
+}
+.law-pc-child1 {
+  position: absolute;
+  top: 2104px;
+  left: 0;
+  background-color: var(--neutral-white);
+  width: 1440px;
+  height: 406px;
+}
+.cta,
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  top: 2150px;
+  left: calc(50% - 235px);
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.5px;
+  line-height: 64px;
+  display: inline-block;
+  color: var(--neutral-grey-7);
+  text-align: center;
+  width: 470px;
+  height: 82.2px;
+}
+.lorem-ipsum-dolor1 {
+  top: 2247.3px;
+  left: calc(50% - 390px);
+  font-size: var(--heading-h6-size);
+  line-height: 24px;
+  font-family: var(--font-poppins);
+  color: var(--neutral-grey-6);
+  width: 781px;
+  height: 129px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-steelblue);
+  width: 219px;
+  height: 64px;
+}
+.call-icon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 28.6px;
+  height: 32px;
+  overflow: hidden;
+}
+.call-now {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  letter-spacing: 0.5px;
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  width: 100px;
+}
+.call-parent {
+  position: absolute;
+  top: 14px;
+  left: 37px;
+  width: 146px;
+  height: 36px;
+}
+.group-div,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219px;
+  height: 64px;
+}
+.group-div {
+  top: 2383.3px;
+  left: 611px;
+  color: var(--neutral-grey-1);
+  font-family: var(--font-poppins);
+}
+.group-child2,
+.group-icon,
+.law-pc-child2 {
+  position: absolute;
+  top: 2537px;
+  left: 153px;
+  width: 246.7px;
+  height: 67px;
+}
+.group-child2,
+.law-pc-child2 {
+  top: 19px;
+}
+.group-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--neutral-white);
+  width: 369px;
+  height: 256px;
+}
+.the-first {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 74.5px);
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  display: inline-block;
+}
+.microsoft-patch-mana {
+  position: absolute;
+  width: 77.49%;
+  top: calc(50% - 45.5px);
+  left: 0;
+  font-size: var(--body-body-2-size);
+  letter-spacing: 0.3px;
+  line-height: 24px;
+  font-family: var(--font-poppins);
+  color: var(--neutral-grey-5);
+  display: flex;
+  align-items: center;
+}
+.the-first-parent {
+  position: absolute;
+  width: 70.03%;
+  top: calc(50% - 74px);
+  right: 0;
+  left: 29.97%;
+  height: 149px;
+}
+.div {
+  position: absolute;
+  top: 113px;
+  left: 27px;
+  font-size: var(--font-size-111xl);
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 50px;
+  height: 47px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 1166px;
+  left: 1000px;
+  width: 387px;
+  height: 256px;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 860px;
+  left: 586px;
+  width: 387px;
+  height: 256px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  top: 1166px;
+}
+.rectangle-parent4 {
+  top: 869px;
+  left: 1000px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 109.5px);
+  border-radius: 15px;
+  background-color: var(--color-steelblue);
+  width: 219px;
+  height: 64px;
+}
+.see-more {
+  position: absolute;
+  top: 0;
+  left: 62px;
+  letter-spacing: 0.5px;
+  line-height: 64px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 1997px;
+  left: calc(50% - 109px);
+  width: 219px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--heading-h6-size);
+  color: var(--neutral-white);
+  font-family: var(--font-poppins);
+}
+.law-pc {
+  position: relative;
+  background-color: var(--neutral-white);
+  width: 100%;
+  height: 2806px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--text);
+  font-family: var(--font-montagu-slab);
+}
